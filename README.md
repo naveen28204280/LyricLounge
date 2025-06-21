@@ -68,16 +68,6 @@ DISCORD_BOT_TOKEN=your_discord_bot_token_here
 LASTFM_API_KEY=your_lastfm_api_key_here
 ```
 
-### **File Structure**
-Create the following files:
-* **`bot.py`** - Main Discord bot file (provided code)
-* **`.env`** - Environment variables file
-  
-### **Running the Bot**
-```bash
-python bot.py
-```
-
 ## **Requirements**
 
 ### **Dependencies (requirements.txt)**
@@ -86,33 +76,6 @@ discord.py>=2.3.2
 aiohttp>=3.8.0
 python-dotenv>=1.0.0
 ```
-
-
-## **Usage Examples**
-
-```bash
-# Get lyrics for a song
-/lyrics Hello - Adele
-
-# Get track information
-/track Bohemian Rhapsody - Queen
-
-# See what's trending
-/trending
-
-# Get rock music recommendations
-/recommend rock
-
-# Find happy mood songs
-/mood happy
-
-# Add song to playlist
-/playlist add Shape of You - Ed Sheeran
-
-# View your playlist
-/playlist view
-```
-
 
 ## **Resources and Links**
 
