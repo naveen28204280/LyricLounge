@@ -33,7 +33,7 @@ When commands are executed, the bot provides:
 
 ### **APIs Used**
 * **MusicBrainz API** - For comprehensive track and artist information
-* **Lyrics.ovh API** - For fetching song lyrics
+* **LCRLib API** - For fetching song
 
 ### APIs for Bonus Features
 * **Deezer API** - For trending charts and music discovery
